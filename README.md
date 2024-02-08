@@ -10,3 +10,5 @@ Trata-se de um site sobre filmes onde são exibidos o cartaz, um background e o 
 ### Para iniciar a aplicação front-end
 ### `npm install`
 ### `npm start`
+
+(public/assets/projet-movies.git)
