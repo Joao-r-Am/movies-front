@@ -11,4 +11,4 @@ Trata-se de um site sobre filmes onde são exibidos o cartaz, um background e o 
 ### `npm install`
 ### `npm start`
 
-![movie-app!](public/assets/projet-movies.git)
+![Threads-clone!](public/assets/projet-movies.git "movie")
